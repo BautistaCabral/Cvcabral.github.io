@@ -104,12 +104,7 @@ footer{
     width: 150px;
     height: 40px;
 }
-.Boton3{
-    background: #f747cb;
-    border-radius: 25px;
-    width: 80px;
-    height: 40px;
-}
+
 
 @media (max-width:768px) {
     .imagen img{
@@ -171,4 +166,3 @@ footer{
         padding: 0 0 0 0;
     }
 }
-
